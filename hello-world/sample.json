@@ -1,6 +1,7 @@
 {
   "name": "Hello World",
-  "category": "Basic",
+  "category": "Basic/Simple",
+  "tag": "snap",
   "description": "A simple Hello World example",
   "author": "Intel Corporation",
   "date": "2016-01-01"
